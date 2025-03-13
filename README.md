@@ -1,2 +1,2 @@
-# Grid
-Grid 
+# Grid lines
+Grid lines
